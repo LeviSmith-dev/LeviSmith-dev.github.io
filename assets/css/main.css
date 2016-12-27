@@ -2132,6 +2132,10 @@
 		text-align: center;
 	}
 
+	header.major ul li {
+		display:inline-block;
+	}
+
 		header.major:after {
 			background: #e44c65;
 			content: '';
